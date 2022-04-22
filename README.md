@@ -8,7 +8,7 @@ Classified 10000 blog posts and matched them with the most probable author featu
     - Scikit-Learn
     - NLTK (pip installed, downloaded the 'punkt' corpus))   
 ## 1. Dataset: 
-- Data set used: Blog Authorship Corpus
+- Data set used: Blog Authorship Corpus (https://www.kaggle.com/datasets/rtatman/blog-authorship-corpus)
 - The original dataset was large and consisted of over 600000 rows and 7 columns
 - For the purpose of this project the number of rows was limited to 10000
 - The dataset contains author features such as name, gender, age, etc. and one column of text written by each of the authors
